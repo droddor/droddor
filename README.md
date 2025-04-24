@@ -27,3 +27,11 @@
 
 - ✉️ Email: danielrodriguezdorado@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/droddor](https://linkedin.com/in/danielrodriguezdorado)
+
+## 📈 GitHub Stats
+
+![droddor's GitHub stats](https://github-readme-stats.vercel.app/api?username=droddor&show_icons=true&theme=radical)
+
+---
+
+*Thanks for visiting my profile. I'm always open to collaborate and keep learning!*
