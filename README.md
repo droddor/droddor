@@ -1,0 +1,29 @@
+# 👋 Hi, I'm droddor
+
+🎯 I'm a **Systems Administrator** with a strong interest in **cloud systems** and **cybersecurity**.  
+💻 Currently, I'm focusing on improving my **programming skills** across various languages and tools.  
+📚 Always learning about new technologies and tools to improve security and system efficiency.
+
+---
+
+## 🚀 About Me
+
+- 🛠️ Experienced in system administration, with a focus on **cloud solutions** (Azure, Microsoft365).
+- 🌐 Passionate about **cloud systems**, **automation**, and **cybersecurity**
+- 🧠 Currently focused on improving my **programming skills** in **Python**, **C**, and **Java**.
+- 🎯 Goal: Improve my skills with **programming languages**.
+
+- ---
+
+## 🧰 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333?&logo=python)
+![C](https://img.shields.io/badge/-C-333?&logo=c)
+![Java](https://img.shields.io/badge/-Java-333?&logo=openjdk)
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: danielrodriguezdorado@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/droddor](https://linkedin.com/in/danielrodriguezdorado)
