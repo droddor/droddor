@@ -26,7 +26,7 @@
 ## 📫 Contact
 
 - ✉️ Email: danielrodriguezdorado@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/droddor](https://linkedin.com/in/danielrodriguezdorado)
+- 💼 LinkedIn: [linkedin.com/in/danielrodriguezdorado](https://linkedin.com/in/danielrodriguezdorado)
 
 ## 📈 GitHub Stats
 
