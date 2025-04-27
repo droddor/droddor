@@ -23,6 +23,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?&logo=visualstudiocode)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333?&logo=pycharm)
 ![Linux](https://img.shields.io/badge/-Linux-333?&logo=linux)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-333?&logo=microsoft)
+![Azure](https://img.shields.io/badge/-Azure-333?&logo=microsoftazure)
 
 ---
 
