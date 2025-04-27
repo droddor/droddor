@@ -20,6 +20,9 @@
 ![Python](https://img.shields.io/badge/-Python-333?&logo=python)
 ![C](https://img.shields.io/badge/-C-333?&logo=c)
 ![Java](https://img.shields.io/badge/-Java-333?&logo=openjdk)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333?&logo=pycharm)
+![Linux](https://img.shields.io/badge/-Linux-333?&logo=linux)
 
 ---
 
@@ -30,7 +33,7 @@
 
 ## 📈 GitHub Stats
 
-![droddor's GitHub stats](https://github-readme-stats.vercel.app/api?username=droddor&show_icons=true&theme=radical)
+![droddor's GitHub stats](https://github-readme-stats.vercel.app/api?username=droddor&show_icons=true&theme=radical&cache_seconds=604800)
 
 ---
 
